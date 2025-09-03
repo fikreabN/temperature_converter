@@ -1,0 +1,28 @@
+body {
+    background: rgb(0, 225, 255);
+}
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    margin-left: -80px;
+}
+.in {
+    margin-right: 29px;
+}
+.output {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+button {
+    margin-left: 45%;
+}
+#output {
+    margin-bottom: 30px;
+}
